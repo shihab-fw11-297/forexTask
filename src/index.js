@@ -54,7 +54,7 @@ async function runTradingBot() {
 }
 
 // Schedule the bot to run every minute
-schedule.scheduleJob('*/2 * * * *', runTradingBot);
+schedule.scheduleJob('* * * * *', runTradingBot);
 
 // Initial run
 runTradingBot();
