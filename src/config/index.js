@@ -1,5 +1,5 @@
 export const config = {
-  finageApiKey: 'KEY3fY0TJDF1K08KRSJJA81R2K8OUSNYC7V'',
+  finageApiKey: 'KEY3fY0TJDF1K08KRSJJA81R2K8OUSNYC7V',
   pair: 'XAUUSD',
   timeframes: ['1', '2','5', '10','15'],
   riskPerTrade: 0.01,
